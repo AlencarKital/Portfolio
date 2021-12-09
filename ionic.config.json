@@ -1,0 +1,8 @@
+{
+		"name": "net.kital.verdesvales",
+		"integrations": {
+			"cordova": {
+			}
+		},
+		"type": "custom"	
+}
